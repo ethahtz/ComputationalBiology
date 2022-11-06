@@ -1,11 +1,11 @@
-Readme file for align.py
-Author: Etha Hua
-Date: Feb 8th, 2022
+Readme file for align.py  
+Author: Etha Hua  
+Date: Feb 8th, 2022  
 Purpose: Implementation of the global alignment algorithm
 with a naive scoring function and a linear gap genalty.
-M refers to score of matching,
-m refers to score of mismatching and,
-g refers to the uniform gap score.
+M refers to score of matching,  
+m refers to score of mismatching and,  
+g refers to the uniform gap score.  
 
 Usage: 
 
