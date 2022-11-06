@@ -4,7 +4,7 @@ Date: April 28th, 2022
 Purpose: Implementation of a K nearest neighbours classifier 
 for smoking behavior identification based on gene expressions
 
------Running Instructions-----
+-----Running Instructions-----  
 Run the KNN classifier with:  
   
 python3 knn-classifier.py [TRAIN.txt] [TEST.txt] [K-VALUE] [test/xv]  
